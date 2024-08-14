@@ -24,25 +24,25 @@ A simple To-Do List application built using Node.js, Express, and MongoDB. This 
    git clone https://github.com/DigvijayNarayanPandey/todolist-app.git
 
 2. **Navigate to the project directory:**  
-```bash
+   ```bash
       cd todolist-app
-```
+   ```
 
 4. **Install dependencies:**  
-```bash  
+   ```bash  
       npm install
-```
+   ```
    
 5. **Start MongoDB server:**  
       Make sure MongoDB is running on your local machine. You can start it with:  
-```bash  
+   ```bash  
       mongod
-```
+   ```
 
 6. **Start the application:**
-```bash  
+   ```bash  
       npm start
-```
+   ```
    
 The application will be available at http://localhost:3000.
 
@@ -53,9 +53,13 @@ The application will be available at http://localhost:3000.
 - **Edit Task**: Click on the "Edit" link to update the task title.
 
 **Contributing**  
+
+  
    Feel free to open issues or submit pull requests if you'd like to contribute to the project.
 
 **License**  
+
+  
    This project is licensed under the MIT License. See the LICENSE file for details.
 
 **Acknowledgments**  
