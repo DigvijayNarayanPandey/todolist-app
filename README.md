@@ -57,11 +57,13 @@ The application will be available at http://localhost:3000.
   
    Feel free to open issues or submit pull requests if you'd like to contribute to the project.
 
+   
 **License**  
 
   
    This project is licensed under the MIT License. See the LICENSE file for details.
 
+  
 **Acknowledgments**  
    - Tailwind CSS for the styling.
    - EJS for templating.
